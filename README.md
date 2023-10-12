@@ -17,7 +17,7 @@ String Maia = {
   code: ["Java", "Typescript", "HTML", "CSS"],
   tools: ["Angular", "Spring Boot", "Docker", "MySQL"],
   roles: ["Desarrolladora Back-End", "Full Stack Developer"],
-  languages: ["Ruso", "Georgiano", "Español", "Inglés"],
+  languages: [ "Inglés", "Español", "Ruso", "Georgiano"],
   email: "a@maiadoroshenko.com",
   education: {
     degree: "Título de Full Stack Developer",
