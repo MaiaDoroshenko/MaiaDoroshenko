@@ -5,7 +5,7 @@
 <p><em>Back end Developer <a href="http://www.unb.br">Egg Cooperation</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 
-[![Linkedin:MaiaPo](https://img.shields.io/badge/-maiapo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/maia-po/
+[![Linkedin:MaiaDo](https://img.shields.io/badge/-maiaDo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/maia-doroshenko/
 )](https://www.linkedin.com/in/maia-doroshenko/)
 
 
@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-String maia = {
+String Maia = {
   code: ["Java", "Typescript", "HTML", "CSS"],
   tools: ["Angular", "Spring Boot", "Docker", "MySQL"],
   roles: ["Desarrolladora Back-End", "Full Stack Developer"],
