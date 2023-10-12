@@ -6,7 +6,7 @@
 
 
 [![Linkedin:MaiaPo](https://img.shields.io/badge/-maiapo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/maia-po/
-)](https://www.linkedin.com/in/maia-po/)
+)](https://www.linkedin.com/in/maia-doroshenko/)
 
 
 
@@ -14,12 +14,11 @@
 
 ```javascript
 String maia = {
-  pronouns: "ella",
   code: ["Java", "Typescript", "HTML", "CSS"],
   tools: ["Angular", "Spring Boot", "Docker", "MySQL"],
   roles: ["Desarrolladora Back-End", "Full Stack Developer"],
   languages: ["Ruso", "Georgiano", "Español", "Inglés"],
-  email: "maiadoroshenko@gmail.com",
+  email: "a@maiadoroshenko.com",
   education: {
     degree: "Título de Full Stack Developer",
     school: "Egg Cooperation"
